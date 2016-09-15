@@ -1,6 +1,10 @@
 # StarRatingWithAngular2
 component for star rating
 
-Attched Folder was created with angular-cli.
+Steps to be followed:
 
-use ng serve to run this.
+1. create a new project with angular-cli
+2. replace that src folder to this src folder.
+
+
+use ng serve to run the app
