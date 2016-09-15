@@ -8,3 +8,5 @@ Steps to be followed:
 
 
 use ng serve to run the app
+
+Note: Created component name is : rating
