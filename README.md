@@ -1,5 +1,6 @@
 # RatingApp
 
+<<<<<<< HEAD
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.
 
 ## Development server
@@ -29,3 +30,14 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+Steps to be followed:
+
+1. create a new project with angular-cli
+2. replace that src folder to this src folder.
+
+
+use ng serve to run the app
+
+Note: Created component name is : rating
+>>>>>>> origin/master
